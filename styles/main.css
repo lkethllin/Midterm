@@ -1,0 +1,28 @@
+
+/* Instead of doing the entire CSS reset I chose to reset a few settings in the body section and set the typography for everything*/
+
+body{
+    background-color: rgb(221, 144, 106);
+    margin: 0;
+	padding: 0;
+	border: 0;
+    font-family: Neue Haas Grotesk Text Pro;
+}
+
+.header{
+    
+    background-image: url(../images/2.jpg);
+    background-size: 1000px, auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    text-align: center;
+    color: white;
+       
+
+}
+
+
