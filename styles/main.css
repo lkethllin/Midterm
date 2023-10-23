@@ -5,10 +5,10 @@
 
 body{   
     background-color: rgb(221, 144, 106);
-    font-family: Neue Haas Grotesk Text Pro;
+    font-family: "Neue Haas Grotesk Text Pro";
     color: white;
     margin-bottom: 0;
-    line-height: 1,2px;   
+    line-height: 1.2;   
 }
 
 .bodybg{ 
@@ -101,12 +101,6 @@ p{
     margin: 15px;
 }
  
-legend{
-    font-size: 24px;
-    font-weight: bold;
-    margin: 5px;
-}
-
 .data{
 width: 100%;
 }
